@@ -1,6 +1,6 @@
-[![Repos Badge](https://badges.pufler.dev/repos/msnawazbd)](https://github.com/msnawazbd)
-[![Gists Badge](https://badges.pufler.dev/gists/msnawazbd)](https://gist.github.com/msnawazbd)
-[![Gists Badge](https://pageview.vercel.app/?github_user=msnawazbd)](https://github.com/msnawazbd)
+[![Repos Badge](https://badges.pufler.dev/repos/Mehedihb)](https://github.com/Mehedihb)
+[![Gists Badge](https://badges.pufler.dev/gists/Mehedihb)](https://gist.github.com/Mehedihb)
+[![Gists Badge](https://pageview.vercel.app/?github_user=Mehedihb)](https://github.com/Mehedihb)
 
 <h2>MY GITHUB STATS</h2>
 <p>
