@@ -1,7 +1,3 @@
-[![Repos Badge](https://badges.pufler.dev/repos/Mehedihb)](https://github.com/Mehedihb)
-[![Gists Badge](https://badges.pufler.dev/gists/Mehedihb)](https://gist.github.com/Mehedihb)
-[![Gists Badge](https://pageview.vercel.app/?github_user=Mehedihb)](https://github.com/Mehedihb)
-
 <h2>MY GITHUB STATS</h2>
 <p>
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=Mehedihb&show_icons=true&line_height=27">
