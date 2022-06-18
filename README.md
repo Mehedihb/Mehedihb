@@ -68,25 +68,6 @@
     <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
 </a>
 
-<h2>WHERE TO FIND ME</h2>
-<p>
-    <a title="Facebook" href="https://facebook.com/msnawazbd">
-        <img src="https://img.shields.io/badge/-Nawaz-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
-    </a>
-    <a title="LinkedIn" href="https://www.linkedin.com/in/msnawazbd/">
-        <img src="https://img.shields.io/badge/-Nawaz-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
-    </a>
-    <a title="Instagram" href="https://instagram.com/mr.ms.nawaz">
-        <img src="https://img.shields.io/badge/-Nawaz-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
-    </a>
-    <a title="Twitter" href="https://twitter.com/msnawazbd">
-        <img src="https://img.shields.io/badge/-Nawaz-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
-    </a>
-    <a title="Youtube" href="https://www.youtube.com/channel/UCIj_o-fxwSZwYMwEKy8AuVg">
-        <img src="https://img.shields.io/badge/-Nawaz-%23FF0000?style=flat-square&logo=youtube" />
-    </a>
-</p>
-
 <hr/>
 <h3>TOOLS USING</h3>
 
